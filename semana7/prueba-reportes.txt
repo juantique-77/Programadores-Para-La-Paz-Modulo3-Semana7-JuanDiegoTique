@@ -1,0 +1,1 @@
+Al enviar un reporte mediante la ruta POST /reportes, el servidor guarda la información en memoria. Cuando se consulta la ruta GET /reportes, se muestra una lista con todos los reportes registrados. Cada reporte tiene un identificador, un tipo y una descripción. De esta forma es posible consultar los reportes que han sido almacenados durante la ejecución del servidor.

@@ -1,0 +1,13 @@
+Ejemplo 1:
+
+{
+"tipo": "Parques",
+"descripcion": "Varios juegos infantiles del parque comunitario presentan daños y requieren mantenimiento."
+}
+
+Ejemplo 2:
+
+{
+"tipo": "Servicios públicos",
+"descripcion": "Los residentes reportan interrupciones frecuentes en el suministro de agua durante la noche."
+}
